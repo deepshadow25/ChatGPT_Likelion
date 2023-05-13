@@ -1,7 +1,21 @@
 # 너와 나의 챗GPT 
 
-Class Time : 2023. 04. 26 ~ 2023. 05. 17 매주 수요일 19시 ~ 22시
+LikeLion (멋쟁이사자처럼) 주관
+Class Time : 2023. 04. 26 ~ 2023. 05. 17 매주 수요일 19시 ~ 21시
 
-Team #3 "삼이정"
+What is provided?
+- better prompt and method with using generative AI
+  - generative LLM (ChatGPT)
+  - image generator (Stable Diffusion webUI)
+- Desing own team project with using generative AI
+  - searching and setting project item and topic
+  - setting virtual persona and interview with it
+  - making symbol and ppt with generative AI
+  - 
 
+### Team Info
+#3 "삼이정"
 
+project name : 이뭐지 (이번주 뭐 입지)
+
+our goal
