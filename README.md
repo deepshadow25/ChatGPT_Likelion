@@ -1,6 +1,7 @@
 # 너와 나의 챗GPT 
 
 LikeLion (멋쟁이사자처럼) 주관
+
 Class Time : 2023. 04. 26 ~ 2023. 05. 17 매주 수요일 19시 ~ 21시
 
 What is provided?
