@@ -21,3 +21,4 @@ teammate : 이흥노(팀장), 이성연, 이소희, 정세빈
 
 project name : 이뭐지 (이번주 뭐 입지)
 
+![](https://user-images.githubusercontent.com/115054681/238856416-12d6614b-f8cb-466a-8deb-febf2766c08b.PNG)
