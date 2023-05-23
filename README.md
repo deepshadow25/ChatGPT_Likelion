@@ -14,6 +14,9 @@ What is provided?
   - making symbol and ppt with generative AI
   - 
 
+[Stable Diffusion Pytorch reference](https://github.com/kjsman/stable-diffusion-pytorch)
+
+
 ### Team Info
 #3 "삼이정"
 
